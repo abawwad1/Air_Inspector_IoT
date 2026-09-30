@@ -7,6 +7,15 @@ quality and helping users take actions to protect their health.
 
 ## 🎯 Project Value
 
-### * Real-time Monitoring
-Allows users to monitor air quality instantly by reading harmful 
-gases concentration in the air. 
+### • Real time Monitoring
+Allows users to monitor air quality instantly by reading harmful gases concentration in the air.
+
+### • Health Protection
+Helps people take preventive actions when air quality becomes unsafe.
+
+### • Remote Access
+Users can check air conditions anytime and from anywhere using their 
+smartphones.
+
+### • Early Warning System
+Alerts users when pollution levels exceed safe limits.
