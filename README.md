@@ -28,3 +28,8 @@ The system uses an ESP32 microcontroller connected to a MQ135 gas sensor to meas
 transmitted via Wi-Fi to the Blynk IoT platform, allowing users to monitor air quality remotely 
 through their smartphones. In addition, the system includes an LCD display that locally shows 
 the air quality, temperature, and humidity readings without requiring an internet connection
+
+### System Components
+
+#### • ESP32 Microcontroller
+Acts as the brain of the system that Processes the incoming signals and Sends data to IoT platform via Wi-Fi
