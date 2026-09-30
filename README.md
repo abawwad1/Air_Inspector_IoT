@@ -18,3 +18,6 @@ Users can check air conditions anytime and from anywhere using their smartphones
 
 ### • Early Warning System
 Alerts users when pollution levels exceed safe limits.
+
+### • Wide Applications
+Can be used in homes, schools, offices, laboratories, and industrial areas.
