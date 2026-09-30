@@ -39,3 +39,14 @@ Measures harmful gases concentration (e.g. CO₂, smoke)
 
 #### • DHT11 Sensor
 Measures Temperature in °C and Humidity as a Percentage
+
+#### • LCD Display
+Displays real-time readings ( Gas level, Temperature, Humidity) providing instant local monitoring
+
+#### • IoT Platform (Blynk IoT)
+Enables remote monitoring
+
+## ⏯️ Implementation
+The system continuously collects environmental data (gas concentration, temperature, and humidity)
+, processes it using the ESP32, and then displays the results locally on an LCD while 
+simultaneously sending them to the IoT platform for remote monitoring.
