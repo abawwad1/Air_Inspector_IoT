@@ -21,3 +21,10 @@ Alerts users when pollution levels exceed safe limits.
 
 ### • Wide Applications
 Can be used in homes, schools, offices, laboratories, and industrial areas.
+
+## 🧠 System Architecture and Components
+The system uses an ESP32 microcontroller connected to a MQ135 gas sensor to measure harmful gases
+,and a DHT11 sensor for the measurement of environmental humidity and temperature. The collected data is 
+transmitted via Wi-Fi to the Blynk IoT platform, allowing users to monitor air quality remotely 
+through their smartphones. In addition, the system includes an LCD display that locally shows 
+the air quality, temperature, and humidity readings without requiring an internet connection
