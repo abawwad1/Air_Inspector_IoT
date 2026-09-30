@@ -4,3 +4,9 @@
 This project presents an IoT-based Air Quality Monitoring System that enables real-time  detection and monitoring of environmental air conditions.
 The system aims to provide a low-cost and accessible solution for increasing awareness of air 
 quality and helping users take actions to protect their health.
+
+## 🎯 Project Value
+
+### * Real-time Monitoring
+Allows users to monitor air quality instantly by reading harmful 
+gases concentration in the air. 
