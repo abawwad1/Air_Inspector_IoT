@@ -50,3 +50,8 @@ Enables remote monitoring
 The system continuously collects environmental data (gas concentration, temperature, and humidity)
 , processes it using the ESP32, and then displays the results locally on an LCD while 
 simultaneously sending them to the IoT platform for remote monitoring.
+
+## 📷 Project Gallery
+
+### Project Poster
+![Robot Main View](images/Project_Poster.jpg)
