@@ -55,3 +55,6 @@ simultaneously sending them to the IoT platform for remote monitoring.
 
 ### Project Poster
 ![Robot Main View](images/Project_Poster.jpg)
+
+### System Architecture
+![Robot Main View](images/Project_architecture.png)
