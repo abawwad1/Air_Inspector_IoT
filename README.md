@@ -33,3 +33,9 @@ the air quality, temperature, and humidity readings without requiring an interne
 
 #### • ESP32 Microcontroller
 Acts as the brain of the system that Processes the incoming signals and Sends data to IoT platform via Wi-Fi
+
+#### • MQ135 Gas Sensor
+Measures harmful gases concentration (e.g. CO₂, smoke)
+
+#### • DHT11 Sensor
+Measures Temperature in °C and Humidity as a Percentage
